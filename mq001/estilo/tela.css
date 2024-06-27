@@ -8,3 +8,29 @@ html{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
 }
+header{
+    background-color: lightgrey;
+}
+header>h1{
+    text-align: center;
+}
+menu li{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(102, 95, 95);
+    color: white;
+}
+menu ul{
+    list-style-type: none;
+   
+    background-color: gray;
+    
+}
+article{
+    width: 100%;
+}
+article{
+    width: 400px;
+    margin: auto;
+    display: block;
+}
